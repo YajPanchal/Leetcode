@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/YajPanchal/Leetcode/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/YajPanchal/Leetcode/tree/master/0507-perfect-number) |
+| [1903-largest-odd-number-in-string](https://github.com/YajPanchal/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
@@ -42,4 +43,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/YajPanchal/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/YajPanchal/Leetcode/tree/master/0344-reverse-string) |
+| [1903-largest-odd-number-in-string](https://github.com/YajPanchal/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/YajPanchal/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
