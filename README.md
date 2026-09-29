@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/YajPanchal/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0204-count-primes](https://github.com/YajPanchal/Leetcode/tree/master/0204-count-primes) |
 ## Enumeration
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/YajPanchal/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/YajPanchal/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/YajPanchal/Leetcode/tree/master/0344-reverse-string) |
 | [1903-largest-odd-number-in-string](https://github.com/YajPanchal/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/YajPanchal/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/YajPanchal/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
