@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/YajPanchal/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/YajPanchal/Leetcode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/YajPanchal/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/YajPanchal/Leetcode/tree/master/0344-reverse-string) |
 | [1903-largest-odd-number-in-string](https://github.com/YajPanchal/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/YajPanchal/Leetcode/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/YajPanchal/Leetcode/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
