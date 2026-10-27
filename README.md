@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/YajPanchal/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0204-count-primes](https://github.com/YajPanchal/Leetcode/tree/master/0204-count-primes) |
+| [0485-max-consecutive-ones](https://github.com/YajPanchal/Leetcode/tree/master/0485-max-consecutive-ones) |
 ## Enumeration
 |  |
 | ------- |
